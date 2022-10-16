@@ -8,7 +8,7 @@ class AddCount extends StatefulWidget {
 }
 
 class _AddCountState extends State<AddCount> {
-  int counter = 10;
+  int counter = 24;
   addCounter() {
     setState(() {
       counter++;
